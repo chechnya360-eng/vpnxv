@@ -1,9 +1,9 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "title": "Вышло обновление",
-  "description": "Что нового:\n● ",
+  "description": "Что нового:\n● Автозапуск VPN по приложениям: включается при открытии выбранных приложений и сам отключается после выхода (пауза 5–120 с)\n● Выбор приложений с поиском и иконками, Instagram отмечается сам\n● Отдельное уведомление с обратным отсчётом до отключения\n● Три темы переключаются на лету, без перезапуска\n● Настройки применяются сразу, без кнопки «Сохранить»\n● «Работа в фоне» стала переключателем\n● Плавные анимации окон и списков",
   "imageUrl": "https://github.com/chechnya360-eng/vpnxv/blob/main/logo5.png?raw=true",
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/chechnya360-eng/vpnxv/raw/refs/heads/main/WayVPN-95.apk",
   "forceUpdate": true,
   "showLimit": 0,
   "color_backround": "#FFFFFF",
