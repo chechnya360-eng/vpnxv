@@ -1,0 +1,15 @@
+{
+  "version": "1.7",
+  "title": "Вышло обновление",
+  "description": "Что нового:\n● Добавлены эффекты молнии по контуру стикера и блик линзы\n●Добавлен эфект огня по контуру стикера с возможностью выбора цвета и усиления огня.\n● Добавлена прозрачность контура (растушевка, размытость рамки)\n● Добавлена возможнсть выпуклости любого участка стикера",
+  "imageUrl": "https://github.com/chechnya360-eng/whatsapp-stic-update/blob/main/logo_1_neon_peel.png?raw=true",
+  "downloadUrl": "https://github.com/chechnya360-eng/whatsapp-stic-update/raw/refs/heads/main/Whatsapp_Cтикеры_v1.7.apk",
+  "forceUpdate": true,
+  "showLimit": 0,
+  "color_backround": "#FFFFFF",
+  "color_title": "#ff0000",
+  "color_description": "#4B5563",
+  "color_accent": "#006400",
+  "imit": 3,
+  "id": "88CAA3034C07DDAC, F919C119684E8C25:2026-12-31"
+}
