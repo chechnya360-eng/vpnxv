@@ -3,7 +3,7 @@
   "title": "Важное обновление",
   "description": "Что нового:\n● Исправил критческую ошибкуиз за которой приложение терпело крах при действиях в шторке уведомлений.Такжетеперь включена поддержка 32 битных процессоров",
   "imageUrl": "https://github.com/chechnya360-eng/vpnxv/blob/main/logo5.png?raw=true",
-  "downloadUrl": "https://github.com/chechnya360-eng/vpnxv/raw/refs/heads/main/WayVPN-95%20v2.apk",
+  "downloadUrl": "https://github.com/chechnya360-eng/vpnxv/raw/refs/heads/main/WayVPN-95v2.apk",
   "forceUpdate": true,
   "showLimit": 0,
   "color_backround": "#FFFFFF",
