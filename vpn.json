@@ -1,9 +1,9 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "title": "Важное обновление",
-  "description": "Что нового:\n● Исправил критческую ошибкуиз за которой приложение терпело крах при действиях в шторке уведомлений.Такжетеперь включена поддержка 32 битных процессоров",
+  "description": "Что нового:\n● Добавил загрузку  новых архивов с конфигурациями. При обнаружении новых конфигов появился на кнопке красная точка.\n● Добавил отключение и включение анимации (для слабых телефонов)\n● Добавил Журнал диагностики по умолчанию вкючен в настройках, отключите!\n● Исправил ошибки падения переписано ядро (пока тестирование)",
   "imageUrl": "https://github.com/chechnya360-eng/vpnxv/blob/main/logo5.png?raw=true",
-  "downloadUrl": "https://github.com/chechnya360-eng/vpnxv/raw/refs/heads/main/WayVPN-95v2.apk",
+  "downloadUrl": "https://github.com/chechnya360-eng/vpnxv/raw/refs/heads/main/WayVPN-95.apk",
   "forceUpdate": true,
   "showLimit": 0,
   "color_backround": "#FFFFFF",
